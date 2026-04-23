@@ -1,0 +1,13 @@
+{
+  "name": "cache-speedtest",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "bench": "node benchmark.js",
+    "start": "docker compose up -d && echo 'Waiting for services...' && sleep 2 && node benchmark.js"
+  },
+  "dependencies": {
+    "ioredis": "^5.4.0",
+    "pg": "^8.13.0"
+  }
+}
