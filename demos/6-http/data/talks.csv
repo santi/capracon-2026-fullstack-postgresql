@@ -1,0 +1,9 @@
+id,title,speaker,room,time
+1,Fullstack PostgreSQL,Vemund Santi,Sal 1,10:00
+2,Kubernetes in Practice,Maria Hansen,Sal 2,10:00
+3,Building Design Systems,Erik Nordli,Sal 3,11:00
+4,Event-Driven Architecture,Ingrid Berg,Sal 1,11:00
+5,GraphQl vs REST,Ola Dahl,Sal 2,13:00
+6,Observability with OpenTelemetry,Kari Lund,Sal 3,13:00
+7,Rust for Backend Developers,Anders Vik,Sal 1,14:00
+8,AI-Assisted Code Review,Lise Strand,Sal 2,14:00

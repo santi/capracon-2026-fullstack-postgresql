@@ -21,7 +21,7 @@ node 1-listen.js
 ### Terminal 2: Send messages
 
 ```bash
-node 2-notify.js "Hello from the audience!"
+node 2-notify.js "Hello from CapraCon"
 ```
 
 SQL to show: `sql/1-pubsub.sql`

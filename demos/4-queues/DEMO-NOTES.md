@@ -16,7 +16,15 @@ npm install
 node 1-enqueue.js 20
 ```
 
-### Step 2: Run 3 workers in parallel
+
+### Step 2: Enqueue jobs
+
+```bash
+node 2-worker.js
+```
+
+
+### Step 3: Run 3 workers in parallel
 
 Each worker claims jobs independently — no duplicates, no conflicts.
 
